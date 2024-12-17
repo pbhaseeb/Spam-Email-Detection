@@ -11,7 +11,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 # In[3]:
-
 # loading the data from csv file to a pandas Dataframe
 raw_mail_data = pd.read_csv('C:/Users/abhis/Downloads/mail_data.csv')
 
