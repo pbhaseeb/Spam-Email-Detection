@@ -21,7 +21,6 @@ raw_mail_data = pd.read_csv('C:/Users/abhis/Downloads/mail_data.csv')
 print(raw_mail_data)
 # In[5]:
 
-
 # replace the null values with a null string
 mail_data = raw_mail_data.where((pd.notnull(raw_mail_data)),'')
 
