@@ -27,7 +27,6 @@ mail_data = raw_mail_data.where((pd.notnull(raw_mail_data)),'')
 
 # In[6]:
 
-
 # printing the first 5 rows of the dataframe
 mail_data.head()
 
