@@ -142,7 +142,6 @@ model.fit(X_train_features, Y_train)
 
 # In[20]:
 
-
 # prediction on training data
 #Evaluating the trained model
 
