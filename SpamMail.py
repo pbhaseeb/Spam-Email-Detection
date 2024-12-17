@@ -19,8 +19,6 @@ raw_mail_data = pd.read_csv('C:/Users/abhis/Downloads/mail_data.csv')
 # In[4]:
 
 print(raw_mail_data)
-
-
 # In[5]:
 
 
